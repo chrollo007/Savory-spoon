@@ -1,6 +1,6 @@
 import React from "react";
 import {motion} from "framer-motion";
-import me from "../../assets/yummy.jpg"
+import me from "../../assets/yummy.jpg";
 import { Link } from "react-router-dom";
 const Profile=()=>{
     const options={
