@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Savory-spoon/static/css/main.e6770bc6.css",
+    "main.js": "/Savory-spoon/static/js/main.7600c2ff.js",
+    "static/media/pexels-heftiba-940302.jpg": "/Savory-spoon/static/media/pexels-heftiba-940302.22b760bd70785c449f3b.jpg",
+    "static/media/burger1.png": "/Savory-spoon/static/media/burger1.154937d69d8cddb29a50.png",
+    "static/media/yummy.jpg": "/Savory-spoon/static/media/yummy.73827097df1607acae72.jpg",
+    "index.html": "/Savory-spoon/index.html",
+    "main.e6770bc6.css.map": "/Savory-spoon/static/css/main.e6770bc6.css.map",
+    "main.7600c2ff.js.map": "/Savory-spoon/static/js/main.7600c2ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6770bc6.css",
+    "static/js/main.7600c2ff.js"
+  ]
+}
