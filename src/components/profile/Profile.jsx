@@ -1,6 +1,6 @@
 import React from "react";
 import {motion} from "framer-motion";
-import me from "../../assets/yummy-smile-emoji-with-tongue-lick-mouth-delicious-tasty-food-symbol-for-social-network-yummy-and-hungry-icon-savory-gourmet-enjoy-food-sign-illustration-isolated-on-yellow-background-vector.jpg"
+import me from "../../assets/yummy.jpg"
 import { Link } from "react-router-dom";
 const Profile=()=>{
     const options={

@@ -1,7 +1,7 @@
 import React from "react";
 import {Link} from "react-router-dom";
 import {RiFindReplaceLine} from "react-icons/ri";
-import me from "../../assets/yummy-smile-emoji-with-tongue-lick-mouth-delicious-tasty-food-symbol-for-social-network-yummy-and-hungry-icon-savory-gourmet-enjoy-food-sign-illustration-isolated-on-yellow-background-vector.jpg";
+import me from "../../assets/yummy.jpg";
 const About=()=>{
     return(
         <section className="about">

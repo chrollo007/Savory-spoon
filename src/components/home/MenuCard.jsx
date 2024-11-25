@@ -1,5 +1,5 @@
 import React  from "react";
-import {delay, motion} from "framer-motion";
+import {motion} from "framer-motion";
 const MenuCard=({itemNum,burgerSrc,price,title,handler,delay=0})=>{
     return<motion.div className="menuCard"
     initial={{
